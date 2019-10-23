@@ -1,0 +1,22 @@
+Blockchain Election Portal
+
+The idea is to create a simple election portal which works on Azure Blockchain Technology. The main motivation behind building this app is to increase the participation of people in Indian elections. Currently, the physical presence of the voter at his/her registered polling booth is necessary for his/her vote to be counted.
+Due to this, NRIs, students staying in hostels away from their permanent residence and people away on emergencies are not able to cast their votes. With the help of this app, people will be able to vote securely and anonymously irrespective of their physical location.
+Integrating blockchains with our app
+
+The election data will be stored in the form of blocks. Each block will have two fields - hashed Aadhar number of the voter and the hashed name of the candidate he/she has voted for. So effectively, a person will only have a block created for him/her if he/she has already voted. When the user is logging in, his/her Aadhar number will be hashed and checked against the hashed Aadhar number fields in each of the boxes. If a match is found, the voter won't be able to log in and will be displayed a message regarding the same. Else he will be login and continue with the voting procedure.
+About the app
+
+    All people of legal age and holder of Aadhar Card will be able to cast their votes. To login to the portal, the voter has to enter their Aadhar number and birthdate, after which they will receive an OTP on their registered mobile number. The final step of authentication requires the voter to enter his/her received OTP.
+    Once logged in, he/she will be able to view all the candidates of his/her constituency of the ongoing election along with their party names/symbols and photos of the candidates.
+    Once the voter casts his/her vote to his preferred candidate, a block will be created with the fields mentioned above and he/she will be automatically logged out.
+
+What this app will aim to achieve
+
+The app will make the process of voting -
+
+    Effortless: The voter will be able to cast his/her vote from a place of comfort. Also, the manual labor and extensive planning required behind conducting elections will be heavily reduced.
+    Reliable: Because of increased participation, more people will have their say in deciding the governing body of their respective constituency.
+    Secure: Because of the use of Azure Blockchains, any attempt to tamper the data of election of votes will not be possible.
+    Anonymous: Because of the extensive use of hashing as well as blockchains, it is impossible to view the details of any casted vote.
+    Scalable: Due to the use of Aadhar card(which is a mandatory document for Indian citizens) and Microsoft Azure Blockchain Technology, the solution app will be highly scalable.

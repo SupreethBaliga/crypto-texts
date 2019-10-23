@@ -1,0 +1,12 @@
+Topics to be covered-
+1.DES
+2.AES
+3.RC4
+4.Modes of operation
+5.RSA
+6.SHA-3(hashing)
+7.Oblivious Transfer and Private information retreival
+8.PHE/FHE(Partially/Fully Harmonic Encryption)
+9.Zero knowledge proof of knowledge
+10.Quantum cryptography
+11.Post quantum cryptography (Time did not permit)

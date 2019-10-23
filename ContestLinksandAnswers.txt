@@ -1,0 +1,15 @@
+Contest Links and Answers:
+1. https://fast-beyond-10656.herokuapp.com/
+Key: A8161709B2D10F50
+
+2. https://des2round.herokuapp.com/
+Key: 97D33B8DA8B8DEAD
+
+3. https://des4round.herokuapp.com/
+Key: 133457799BBCDFF1
+
+4. https://des6round.herokuapp.com/
+Key: 0A549B68221D6387
+
+5. https://des8round.herokuapp.com/
+Key: 732458199BBFEFF5
